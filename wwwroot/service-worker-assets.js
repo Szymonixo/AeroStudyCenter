@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Uqd5aoOY",
+  "version": "xDHrziG+",
   "assets": [
     {
       "hash": "sha256-RpYNq08UfsBAr1e0vZLh8cI6CSZfItxIxKHSb+/dYqg=",
@@ -286,7 +286,7 @@ self.assetsManifest = {
       "url": "images/wmp.ico"
     },
     {
-      "hash": "sha256-E1KcOoGhasGi1VihiyEPRjUvC19nCVGWhAIxLl8j30o=",
+      "hash": "sha256-EpJVakufjRiNk8vW+oUIwm9oi2hegDbF26JM9pycaro=",
       "url": "index.html"
     },
     {

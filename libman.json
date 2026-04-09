@@ -1,0 +1,13 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "showdown@2.1.0",
+      "destination": "wwwroot/js/",
+      "files": [
+        "showdown.min.js"
+      ]
+    }
+  ]
+}
